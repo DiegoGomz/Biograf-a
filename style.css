@@ -1,0 +1,90 @@
+html{
+    background-color: #F96900;
+}
+
+body {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+
+.vector01{
+    position:fixed;
+    width: 100%;
+    top: 86%;
+}
+
+
+.vector0{
+    position:fixed;
+    top: 0;
+    left: 0%;
+    width:100%;
+
+}
+.vector{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+.background{
+    position: fixed;
+    bottom: 0;
+    left: 0%;
+
+
+}
+
+header{
+    
+    font-size: 40px;
+    color: ivory;
+    position: absolute;
+    font-family: 'NTR', sans-serif;
+}
+
+header,h1{
+    margin: none;
+    padding: 0px;
+}
+
+.t2{
+    margin-top: -100px;
+}
+
+main{
+    font-family: 'NTR', sans-serif;
+    position: absolute;
+    margin-top: 210px;
+}
+
+h3{
+    font-size: 35px;
+}
+
+ul{
+    margin-top: -50px;
+    font-size: 28px;
+}
+
+.control{
+    width: 300px;
+    position: relative;
+    margin-top: -270px;
+    margin-left: 270px;
+
+
+}
+
+.series{
+    position: relative;
+    margin-left: 900px;
+    margin-top: -791px;
+}
+
+
