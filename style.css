@@ -1,14 +1,13 @@
-html{
+html,body{
     background-color: #F96900;
-}
-
-body {
     position:fixed;
     top:0;
     bottom:0;
     left:0;
     right:0;
 }
+
+
 
 
 .vector01{
@@ -75,16 +74,60 @@ ul{
 .control{
     width: 300px;
     position: relative;
-    margin-top: -270px;
+    margin-top: -600px;
     margin-left: 270px;
+
+
+}
+
+.Spider{
+    width: 300px;
+    position: relative;
+    top: -435px;
+    left: 500px;
 
 
 }
 
 .series{
     position: relative;
-    margin-left: 900px;
-    margin-top: -790x;
+    left: 900px;
+    top: -1362px;
 }
 
 
+.sp{ 
+    width: 300px;
+    position: relative;
+    top: -435px;
+    left: 300px;
+
+}
+
+.musica{
+    position: relative;
+    left: 900px;
+    top: -1700px;
+}
+
+.musik{ 
+    width: 300px;
+    position: relative;
+    top: -350px;
+    left: 670px;
+
+}
+
+.videojuegos{
+    position: relative;
+    left: 1700px;
+    top: -3000px;
+}
+
+.game{ 
+    width: 300px;
+    position: relative;
+    top: -400px;
+    left: 370px;
+
+}
