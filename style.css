@@ -43,7 +43,7 @@ header{
     
     font-size: 40px;
     color: ivory;
-    position: absolute;
+    position: fixed;
     font-family: 'NTR', sans-serif;
 }
 
@@ -58,7 +58,7 @@ header,h1{
 
 main{
     font-family: 'NTR', sans-serif;
-    position: absolute;
+    position: fixed;
     margin-top: 210px;
 }
 
@@ -73,8 +73,8 @@ ul{
 
 .control{
     width: 300px;
-    position: relative;
-    margin-top: -600px;
+    position: fixed;
+    margin-top: -340px;
     margin-left: 270px;
 
 
@@ -82,52 +82,52 @@ ul{
 
 .Spider{
     width: 300px;
-    position: relative;
-    top: -435px;
+    position: fixed;
+    top: 790px;
     left: 500px;
 
 
 }
 
 .series{
-    position: relative;
+    position: fixed;
     left: 900px;
-    top: -1362px;
+    top: 210px;
 }
 
 
 .sp{ 
-    width: 300px;
-    position: relative;
-    top: -435px;
-    left: 300px;
+    width: 430px;
+    position: fixed;
+    margin-top: -400px;
+    left: 1200px;
 
 }
 
 .musica{
-    position: relative;
+    position: fixed;
     left: 900px;
-    top: -1700px;
+    top: 730px;
 }
 
 .musik{ 
     width: 300px;
-    position: relative;
-    top: -350px;
-    left: 670px;
+    position: fixed;
+    top: 768px;
+    left: 1570px;
 
 }
 
 .videojuegos{
-    position: relative;
-    left: 1700px;
-    top: -3000px;
+    position: fixed;
+    left: 1800px;
+    top: 210px;
 }
 
 .game{ 
     width: 300px;
-    position: relative;
-    top: -400px;
-    left: 370px;
+    position: fixed;
+    top: 280px;
+    left: 2200px;
 
 }
